@@ -25,3 +25,6 @@ git branch
 
 # switch branch
 git checkout branch_name
+
+# merge branch
+git merge branch_name
