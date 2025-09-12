@@ -8,3 +8,20 @@ git add .            # to add all file
 # commit the file
 git commit -m "meaningful message"
 
+# logs
+git log
+
+# status
+git status
+
+# change the name of default branch
+git branch -M mean
+
+# create a new branch
+git branch branch_name
+
+# list out all the branch
+git branch
+
+# switch branch
+git checkout branch_name
