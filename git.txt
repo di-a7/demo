@@ -1,1 +1,10 @@
-hello
+# git initialize
+git init
+
+# git file add
+git add file_name    # to add single file
+git add .            # to add all file
+
+# commit the file
+git commit -m "meaningful message"
+
