@@ -15,7 +15,7 @@ git log
 git status
 
 # change the name of default branch
-git branch -M mean
+git branch -M main
 
 # create a new branch
 git branch branch_name
