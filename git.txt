@@ -8,3 +8,27 @@ git add .            # to add all file
 # commit the file
 git commit -m "meaningful message"
 
+# logs
+git log
+
+# status
+git status
+
+# change the name of default branch
+git branch -M main
+
+# create a new branch
+git branch branch_name
+
+# list out all the branch
+git branch
+
+# switch branch
+git checkout branch_name
+
+# merge branch
+git merge branch_name
+
+# define usename and email in the device
+git config -global username "diya"
+git config -global email "diya@gamil.com"
