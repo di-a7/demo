@@ -32,3 +32,14 @@ git merge branch_name
 # define usename and email in the device
 git config -global username "diya"
 git config -global email "diya@gamil.com"
+
+# git remote -v
+
+# (first push) local repo to remote repo
+git push -u origin main 
+git push
+
+git push origin branch_name
+
+# remote repo to local repo
+git pull
