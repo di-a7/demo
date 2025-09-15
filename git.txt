@@ -28,3 +28,7 @@ git checkout branch_name
 
 # merge branch
 git merge branch_name
+
+# define usename and email in the device
+git config -global username "diya"
+git config -global email "diya@gamil.com"
